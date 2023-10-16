@@ -1,0 +1,14 @@
+F:\wat\C#\DesignPatterns\StatePattern\bin\Debug\net6.0\StatePattern.exe
+F:\wat\C#\DesignPatterns\StatePattern\bin\Debug\net6.0\StatePattern.deps.json
+F:\wat\C#\DesignPatterns\StatePattern\bin\Debug\net6.0\StatePattern.runtimeconfig.json
+F:\wat\C#\DesignPatterns\StatePattern\bin\Debug\net6.0\StatePattern.dll
+F:\wat\C#\DesignPatterns\StatePattern\bin\Debug\net6.0\StatePattern.pdb
+F:\wat\C#\DesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\wat\C#\DesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.AssemblyInfoInputs.cache
+F:\wat\C#\DesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.AssemblyInfo.cs
+F:\wat\C#\DesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.csproj.CoreCompileInputs.cache
+F:\wat\C#\DesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.dll
+F:\wat\C#\DesignPatterns\StatePattern\obj\Debug\net6.0\refint\StatePattern.dll
+F:\wat\C#\DesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.pdb
+F:\wat\C#\DesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.genruntimeconfig.cache
+F:\wat\C#\DesignPatterns\StatePattern\obj\Debug\net6.0\ref\StatePattern.dll

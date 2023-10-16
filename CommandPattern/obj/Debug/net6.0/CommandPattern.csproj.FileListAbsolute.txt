@@ -1,0 +1,14 @@
+F:\wat\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\wat\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+F:\wat\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+F:\wat\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+F:\wat\C#\DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+F:\wat\C#\DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+F:\wat\C#\DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+F:\wat\C#\DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+F:\wat\C#\DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+F:\wat\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+F:\wat\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+F:\wat\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+F:\wat\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+F:\wat\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll
